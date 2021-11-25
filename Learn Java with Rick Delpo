@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+
+<meta name="description" content="How to Learn Java">
+
+<meta name="keywords" content="how to learn java, Rick Delpo">
+
+
+    <title>How to Learn Java</title>
+
+</head>
+
+<body>    
+
+<h3>this page is still under construction</h3>
+
+<p> We will discuss a unique way of quickly learning java so we can graduate to bigger and better things. I want you to be able to understand the http request and response protocol so this is why we use a java servlet. It is the http client for Java. Then we want to understand sql and need to be able to do for loops on collections of data and render to html. We move on to a simple front end plain JS format for this. Thenwe use axios which is the js http client to fetch data. Eventually after we master these slikks we can move on to the AWS platform and to Lambda. </p>
+
+</body>   
+
+
+</html> 
